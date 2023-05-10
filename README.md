@@ -1,2 +1,2 @@
 # hello-world
-Exercício de Casa 
+Exercício de Casa ondeclonei o repositorio e publiquei no github
